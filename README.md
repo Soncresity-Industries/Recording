@@ -4,6 +4,11 @@
 
 This is the official setup for the OBS Desktop application used in recordings on the Soncresity Industries YouTube channel. This is mandatory for recording with Soncresity Industries!
 
+> IMPORTANT DISCLAIMER:
+> Please note that this profile is set up for the highest possible quality.
+This means that recordings of around two hours could reach a size of around 100 GB.
+The needed storage space isn't tested yet so exact numbers can't be provided right now.
+
 ## Importing the settings profile
 
 To import the settings profile, open your OBS Studio and click on the **Profile** dropdown in the top bar.
