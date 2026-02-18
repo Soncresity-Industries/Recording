@@ -6,8 +6,9 @@ This is the official setup for the OBS Desktop application used in recordings on
 
 > IMPORTANT DISCLAIMER:
 > Please note that this profile is set up for the highest possible quality.
-This means that recordings of around two hours could reach a size of around 100 GB.
-The needed storage space isn't tested yet so exact numbers can't be provided right now.
+> This means that recordings of around two hours could reach a size of around 100 GB.
+> The needed storage space isn't tested yet so exact numbers can't be provided right now.
+> You also might need to set your recording path manually in the settings after importing the profile.
 
 ## Importing the settings profile
 
