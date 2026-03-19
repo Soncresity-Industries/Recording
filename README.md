@@ -1,26 +1,11 @@
-# Soncresity Industries OBS Cinematics alternate profile setup
+# Soncresity Industries Recordings Configuration and Information
 
-## What is this setup?
+> This repository contains information about recording videos at Soncresity Industries and specific importable configurations.
 
-This is the official setup for the OBS Desktop application used in recordings on the Soncresity Industries YouTube channel. This is mandatory for recording with Soncresity Industries!
+## OBS Studio
 
-> IMPORTANT DISCLAIMER:
-> Please note that this profile is set up for the highest possible quality.
-> This means that recordings of around two hours could reach a size of around 100 GB.
-> You also might need to set your recording path manually in the settings after importing the profile.
+OBS Studio is an application commonly used for recording videos for platforms like Twitch or YouTube.
 
-## Importing the settings profile
+### Cinematics
 
-To import the settings profile, open your OBS Studio and click on the **Profile** dropdown in the top bar.
-![Profile dropdown](images/settings_1.png)
-Next, select **Import...** and choose `./Cinematics/` from the root of this repository.
-![Import profile](images/settings_2.png)
-
-## Importing the scene collection
-
-To import the scene collection, open your OBS Studio and click on the **Scene Collection** dropdown in the top bar.
-![Scene Collection dropdown](images/scenes_1.png)
-Next, select **Import...**.
-![Import scene collection](images/scenes_2.png)
-If you never did this before, OBS will ask you if it should import automatically in the future and you should press **Yes** here. After that, click **Browse...** and select `./Cinematics.json` from the root of this repository.
-![Browse scene collection file](images/scenes_3.png)
+**Cinematics** is the OBS Studio configuration we use for most of our videos. Read more about it [here](./OBS Studio/Cinematics/README.md).
